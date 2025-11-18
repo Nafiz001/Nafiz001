@@ -1,10 +1,4 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,50:fbc2eb,100:a6c1ee&height=200&section=header"/>
-</div>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a18cd1,50:fbc2eb,100:a6c1ee&height=3"/>
-</div>
 
 <br/>
 
@@ -21,31 +15,13 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,js,php,tailwind,mongodb" />
 
-<br/>
 
-✨ **Turning ideas into clean, scalable web apps** ✨
 
-<br/>
 
-📧 **nafizahmed000@gmail.com**  
-🌐 **[portfoliio-frontend.vercel.app](https://portfoliio-frontend.vercel.app/)**
+<
 
-<br/>
-
-<p>
-<a href="https://github.com/Nafiz001"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nafiz001"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://portfoliio-frontend.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-a18cd1?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.png" width="90%"/>
+<img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/banner.png" width="100%"/>
 
 <br/>
 

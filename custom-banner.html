@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Md. Nafiz Ahmed - GitHub Banner</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #0d1117;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .banner {
+            width: 1280px;
+            height: 320px;
+            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #d946ef 100%);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            padding: 0 80px;
+            border-radius: 10px;
+        }
+
+        /* Subtle background pattern */
+        .banner::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(circle at 20% 50%, rgba(255,255,255,0.1) 0%, transparent 50%),
+                radial-gradient(circle at 80% 80%, rgba(255,255,255,0.1) 0%, transparent 50%);
+            opacity: 0.5;
+        }
+
+        /* Content wrapper */
+        .content {
+            position: relative;
+            z-index: 1;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            gap: 60px;
+        }
+
+        /* Left section */
+        .left-section {
+            flex: 1;
+            color: white;
+        }
+
+        .greeting {
+            font-size: 20px;
+            font-weight: 400;
+            margin-bottom: 12px;
+            opacity: 0.95;
+        }
+
+        .name {
+            font-size: 54px;
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 8px;
+        }
+
+        .title {
+            font-size: 22px;
+            font-weight: 400;
+            margin-bottom: 30px;
+            opacity: 0.9;
+        }
+
+        .tech-stack {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 25px;
+        }
+
+        .tech-icon {
+            width: 44px;
+            height: 44px;
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            border-radius: 10px;
+            padding: 8px;
+            transition: transform 0.2s ease;
+        }
+
+        .tech-icon:hover {
+            transform: translateY(-3px);
+        }
+
+        .tech-icon img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        .tagline {
+            font-size: 16px;
+            margin-bottom: 20px;
+            opacity: 0.95;
+        }
+
+        .contact {
+            display: flex;
+            gap: 20px;
+            font-size: 14px;
+            margin-bottom: 20px;
+            opacity: 0.9;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 10px;
+        }
+
+        .social-btn {
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            transition: background 0.2s ease;
+        }
+
+        .social-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        /* Right section - Profile */
+        .right-section {
+            position: relative;
+        }
+
+        .profile-container {
+            width: 320px;
+            height: 420px;
+            position: relative;
+        }
+
+        
+
+        .profile-img {
+            width: 100%;
+            height: 400px;
+            border-radius: 12px;
+            object-fit: contain;
+            object-position: center top;
+        }
+
+        .profile-label {
+            position: absolute;
+            bottom: -12px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: white;
+            color: #6366f1;
+            padding: 8px 24px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 600;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+            white-space: nowrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        <div class="content">
+            <!-- Left Section -->
+            <div class="left-section">
+                <div class="greeting">Hi There! 👋</div>
+                <div class="name">Md. Nafiz Ahmed</div>
+                <div class="title">Full Stack Developer</div>
+
+                <div class="tech-stack">
+                    <div class="tech-icon">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+                    </div>
+                    <div class="tech-icon">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
+                    </div>
+                    <div class="tech-icon">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+                    </div>
+                    <div class="tech-icon">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP">
+                    </div>
+                    <div class="tech-icon">
+                        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind">
+                    </div>
+                    <div class="tech-icon">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB">
+                    </div>
+                </div>
+
+                <div class="tagline">
+                    ✨ Turning ideas into clean, scalable web apps ✨
+                </div>
+
+                <div class="contact">
+                    <div class="contact-item">
+                        <span>📧</span>
+                        <span>nafizahmed000@gmail.com</span>
+                    </div>
+                    <div class="contact-item">
+                        <span>🌐</span>
+                        <span>portfoliio-frontend.vercel.app</span>
+                    </div>
+                </div>
+
+                
+            </div>
+
+            <!-- Right Section - Profile -->
+            <div class="right-section">
+                <div class="profile-container">
+                    <div class="profile-frame">
+                        <img src="assets/profile-removebg-preview.png" alt="Md. Nafiz Ahmed" class="profile-img">
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
