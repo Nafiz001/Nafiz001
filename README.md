@@ -6,9 +6,11 @@
   <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<table align="center" width="100%">
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px 20px;">
+
+<table align="center" width="100%" style="background: rgba(255, 255, 255, 0.95); border-radius: 15px; padding: 30px; box-shadow: 0 10px 40px rgba(0,0,0,0.1);">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 30px;">
 
 ## Hi There! 👋
 
@@ -29,7 +31,7 @@
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 30px;">
 
 <img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.png" width="100%" style="border-radius: 15px;"/>
 
@@ -40,6 +42,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
