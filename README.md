@@ -1,51 +1,69 @@
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&animation=twinkling)
-  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=&fontSize=0&animation=twinkling&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=2&section=header&reversal=false" />
+  <img width="100%" height="3" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-<table width="100%" style="border: none;">
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td width="35%" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.png" width="280" style="border-radius: 10px; border: 3px solid #4A90E2;"/>
-      <br/><br/>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=280&lines=Let's+Collaborate!" alt="Let's Collaborate" />
-    </td>
-    <td width="65%" style="border: none;">
-      <h1 align="center">Md. Nafiz Ahmed</h1>
-      <h3 align="center">Full Stack Developer</h3>
+    <td width="60%" valign="top" style="border: none; padding-right: 20px;">
       <br/>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,js,php,tailwind,mongodb" height="50"/>
+      <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=667EEA&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Md.+Nafiz+Ahmed" />
+      </h1>
+      
+      <h2>💼 Full Stack Developer</h2>
+      
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=764BA2&width=435&lines=Let's+Collaborate+and+Build+Something+Amazing!;Turning+Ideas+into+Clean%2C+Scalable+Web+Apps" alt="Typing SVG" />
       </p>
+      
       <br/>
-      <h4 align="center">✨ Turning ideas into clean, scalable web apps ✨</h4>
-      <br/>
-      <p align="center">
-        📧 <a href="mailto:nafizahmed000@gmail.com">nafizahmed000@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 <a href="https://portfoliio-frontend.vercel.app/">portfoliio-frontend.vercel.app</a>
+      
+      <h3>🚀 Tech Stack</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,typescript,php" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mongodb,mysql,git,github" />
       </p>
+      
       <br/>
-      <p align="center">
+      
+      <h3>📫 Connect With Me</h3>
+      <p>
+        📧 <a href="mailto:nafizahmed000@gmail.com"><b>nafizahmed000@gmail.com</b></a>
+        <br/>
+        🌐 <a href="https://portfoliio-frontend.vercel.app/"><b>portfoliio-frontend.vercel.app</b></a>
+      </p>
+      
+      <br/>
+      
+      <p>
         <a href="https://github.com/Nafiz001">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://www.linkedin.com/in/nafiz001">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
         <a href="https://portfoliio-frontend.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PORTFOLIO-667EEA?style=for-the-badge&logo=About.me&logoColor=white"/>
         </a>
       </p>
+    </td>
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.png" width="100%" style="max-width: 400px; border-radius: 20px; box-shadow: 0 10px 50px rgba(102, 126, 234, 0.4);"/>
     </td>
   </tr>
 </table>
 
+<br/>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=2&section=footer&reversal=false" />
+  <img width="100%" height="3" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
 ---
