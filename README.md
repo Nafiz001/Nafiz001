@@ -1,26 +1,5 @@
 
 
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<br/>
-
-## Hi There! 👋
-
-### **Md. Nafiz Ahmed**
-#### Full Stack Developer
-
-<br/>
-
-
-
-
-
-<
-
 <img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/banner.png" width="100%"/>
 
 <br/>
