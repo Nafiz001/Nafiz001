@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Hi%20👋,%20I'm%20Md.%20Nafiz%20Ahmed&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20|%20Full%20Stack%20Enthusiast%20|%20JavaScript%20Expert&descSize=18&descAlignY=55" width="100%"/>
 </div>
 
+<div align="center" style="margin-top: -100px;">
+  <img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.jpg" alt="Md. Nafiz Ahmed" width="180" height="180" style="border-radius: 50%; border: 6px solid #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.3); margin-top: -90px;"/>
+</div>
 
+<br/>
 
 <div align="center">
   
