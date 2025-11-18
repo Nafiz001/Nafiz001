@@ -11,7 +11,7 @@
 <table width="100%" style="border: none;">
   <tr>
     <td width="35%" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.jpg" width="280" style="border-radius: 10px; border: 3px solid #4A90E2;"/>
+      <img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.png" width="280" style="border-radius: 10px; border: 3px solid #4A90E2;"/>
       <br/><br/>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=280&lines=Let's+Collaborate!" alt="Let's Collaborate" />
     </td>
