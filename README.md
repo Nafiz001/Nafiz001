@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=&fontSize=0" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=400&section=header&text=&fontSize=0">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=400&section=header&text=&fontSize=0">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=400&section=header&text=&fontSize=0" />
+</picture>
 
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px 20px;">
-
-<table align="center" width="100%" style="background: rgba(255, 255, 255, 0.95); border-radius: 15px; padding: 30px; box-shadow: 0 10px 40px rgba(0,0,0,0.1);">
+<table align="center" width="100%" style="margin-top: -400px; position: relative;">
 <tr>
-<td width="50%" valign="top" style="padding: 30px;">
+<td width="50%" valign="top" style="padding: 40px;">
 
-## Hi There! 👋
+## <span style="color: white;">Hi There! 👋</span>
 
 ### **Md. Nafiz Ahmed**
 #### Full Stack Developer
@@ -31,7 +31,7 @@
 </p>
 
 </td>
-<td width="50%" valign="top" style="padding: 30px;">
+<td width="50%" valign="top" style="padding: 40px;">
 
 <img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.png" width="100%" style="border-radius: 15px;"/>
 
@@ -42,8 +42,6 @@
 </td>
 </tr>
 </table>
-
-</div>
 
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
