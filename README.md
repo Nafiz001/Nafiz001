@@ -1,70 +1,51 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=&fontSize=0&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=&fontSize=0" />
 </div>
 
 <div align="center">
-  <img width="100%" height="3" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<br/>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
-  <tr>
-    <td width="60%" valign="top" style="border: none; padding-right: 20px;">
-      <br/>
-      <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=667EEA&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Md.+Nafiz+Ahmed" />
-      </h1>
-      
-      <h2>💼 Full Stack Developer</h2>
-      
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=764BA2&width=435&lines=Let's+Collaborate+and+Build+Something+Amazing!;Turning+Ideas+into+Clean%2C+Scalable+Web+Apps" alt="Typing SVG" />
-      </p>
-      
-      <br/>
-      
-      <h3>🚀 Tech Stack</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,typescript,php" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mongodb,mysql,git,github" />
-      </p>
-      
-      <br/>
-      
-      <h3>📫 Connect With Me</h3>
-      <p>
-        📧 <a href="mailto:nafizahmed000@gmail.com"><b>nafizahmed000@gmail.com</b></a>
-        <br/>
-        🌐 <a href="https://portfoliio-frontend.vercel.app/"><b>portfoliio-frontend.vercel.app</b></a>
-      </p>
-      
-      <br/>
-      
-      <p>
-        <a href="https://github.com/Nafiz001">
-          <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://www.linkedin.com/in/nafiz001">
-          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        <a href="https://portfoliio-frontend.vercel.app/">
-          <img src="https://img.shields.io/badge/PORTFOLIO-667EEA?style=for-the-badge&logo=About.me&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.png" width="100%" style="max-width: 400px; border-radius: 20px; box-shadow: 0 10px 50px rgba(102, 126, 234, 0.4);"/>
-    </td>
-  </tr>
+## Hi There! 👋
+
+### **Md. Nafiz Ahmed**
+#### Full Stack Developer
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,php,tailwind,mongodb" />
+
+✨ **Turning ideas into clean, scalable web apps** ✨
+
+📧 **nafizahmed000@gmail.com**  
+🌐 **[portfoliio-frontend.vercel.app](https://portfoliio-frontend.vercel.app/)**
+
+<p>
+<a href="https://github.com/Nafiz001"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nafiz001"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://portfoliio-frontend.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-667EEA?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.png" width="100%" style="border-radius: 15px;"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Let's+Collaborate!" />
+</p>
+
+</td>
+</tr>
 </table>
 
-<br/>
-
 <div align="center">
-  <img width="100%" height="3" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+<br/>
 
 ---
 
