@@ -1,7 +1,9 @@
-# 👋 Hello! I'm Md. Nafiz Ahmed
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:00D9FF&height=300&section=header&text=Md.%20Nafiz%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20JavaScript%20|%20PHP%20|%20Machine%20Learning&descAlignY=60&descAlign=center" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;JavaScript+%26+PHP+Enthusiast;Passionate+About+Clean+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;JavaScript+%26+PHP+Enthusiast;Database+Expert+(SQL%2C+MySQL%2C+MongoDB);Machine+Learning+Enthusiast;C+%26+C%2B%2B+Developer;Passionate+About+Clean+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
 ---
@@ -34,7 +36,18 @@ I'm a passionate **Full Stack Web Developer** from **Khulna, Bangladesh** with e
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+
+### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Specialization
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-013243?style=flat-square&logo=python&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -90,7 +103,7 @@ I'm a passionate **Full Stack Web Developer** from **Khulna, Bangladesh** with e
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://portfoliio-frontend.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nafiz001)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafizahmed000@gmail.com)
 
 </div>
 
@@ -99,7 +112,9 @@ I'm a passionate **Full Stack Web Developer** from **Khulna, Bangladesh** with e
 ## 💡 Quick Facts
 
 - 📍 **Location:** Khulna, Bangladesh
-- 🎓 **Focus:** Full Stack Web Development
+- 📧 **Email:** nafizahmed000@gmail.com
+- 🌐 **Portfolio:** https://portfoliio-frontend.vercel.app/
+- 🎓 **Focus:** Full Stack Web Development, Machine Learning, Data Science
 - 📊 **Contributions:** 447 in the last year
 - 🔄 **Repositories:** 51 public projects
 - ⭐ **Always:** Learning and improving
