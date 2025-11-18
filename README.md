@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.jpg" alt="Md. Nafiz Ahmed - Professional Photo" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; border: 4px solid #36BCF7; box-shadow: 0 0 20px rgba(54, 188, 247, 0.5);" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;JavaScript+%26+PHP+Enthusiast;Database+Expert+(SQL%2C+MySQL%2C+MongoDB);Machine+Learning+Enthusiast;C+%26+C%2B%2B+Developer;Passionate+About+Clean+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
