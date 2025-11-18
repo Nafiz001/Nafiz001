@@ -35,28 +35,41 @@
 
 ## 🚀 About Me
 
-```javascript
-const nafiz = {
-    location: "Khulna, Bangladesh 🇧🇩",
-    role: "Frontend Developer & Full Stack Engineer",
-    code: ["JavaScript", "PHP", "Java", "C", "C++", "Python"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "jQuery", "Vanilla JS"],
-            css: ["Tailwind CSS", "Bootstrap", "Material-UI", "SASS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-            php: ["Laravel", "Raw PHP"],
-            java: ["Spring Boot", "JSP"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-        misc: ["Git", "REST APIs", "Postman", "VS Code"]
-    },
-    currentFocus: "Building elegant and performant user interfaces",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
-```
+<p align="center">
+  <samp>
+    👋 Hey there! I'm <b>Md. Nafiz Ahmed</b>, a passionate <b>Frontend Developer</b> and <b>Full Stack Engineer</b> from Khulna, Bangladesh 🇧🇩
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    💻 I specialize in building modern, responsive web applications with <b>JavaScript, React, Node.js, and PHP</b>
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    🎨 My tech arsenal includes: <b>React • Redux • Tailwind CSS • Bootstrap • Node.js • Express • MongoDB • MySQL • Firebase</b>
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    🚀 Currently crafting <b>Artify</b> - An innovative art marketplace connecting artists with collectors
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    🌱 Always learning, always growing • 📚 Exploring advanced React patterns & Machine Learning integration
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    💡 Fun Fact: I debug with console.log() and I'm proud of it! 😄
+  </samp>
+</p>
 
 <br/>
 
