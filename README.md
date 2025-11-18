@@ -2,11 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Hi%20👋,%20I'm%20Md.%20Nafiz%20Ahmed&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20|%20Full%20Stack%20Enthusiast%20|%20JavaScript%20Expert&descSize=18&descAlignY=55" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.jpg" alt="Md. Nafiz Ahmed" width="150" height="150" />
-</div>
 
-<br/>
 
 <div align="center">
   
@@ -285,10 +281,4 @@ const nafiz = {
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
 </div>
