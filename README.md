@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/main/assets/profile.png" width="100%"/>
 
 <br/>
 
