@@ -40,15 +40,11 @@
   </samp>
 </p>
 
-<p align="center">
-  <samp>
-    🚀 Currently crafting <b>Artify</b> - An innovative art marketplace connecting artists with collectors
-  </samp>
-</p>
+
 
 <p align="center">
   <samp>
-    🌱 Always learning, always growing • 📚 Exploring advanced React patterns & Machine Learning integration
+    🌱 Always learning, always growing • 📚 Exploring advanced React patterns & Machine Learning integration & <b>NEXT.JS</b>
   </samp>
 </p>
 
@@ -60,16 +56,6 @@
 
 <br/>
 
-## 🎯 What I'm Currently Doing
-
-- 🎨 Crafting beautiful **responsive web applications** with modern frontend technologies
-- � Building **Artify** - An art marketplace connecting artists with collectors
-- � Developing **interactive UI/UX** with React and Tailwind CSS
-- 🧠 Exploring **Machine Learning** and AI integration in web apps
-- � Learning **advanced React patterns** and performance optimization
-- 👨‍💻 Contributing to **open-source** projects
-
-<br/>
 
 ## � TECHNOLOGY STACK
 
@@ -154,57 +140,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nafiz001&theme=github_dark" alt="Profile Summary" width="98%"/>
 </div>
 
-### 📈 Repository Stats & Streak
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nafiz001&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</p>
 
 <br/>
 
-## 🎨 PINNED REPOSITORIES
 
-<div align="center">
-
-<a href="https://github.com/Nafiz001/artify-client-side">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nafiz001&repo=artify-client-side&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/Nafiz001/artify-server-side">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nafiz001&repo=artify-server-side&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/Nafiz001/Fantasy-Premier-League">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nafiz001&repo=Fantasy-Premier-League&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/Nafiz001/Dragon-News">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nafiz001&repo=Dragon-News&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/Nafiz001/fpl-admin-panel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nafiz001&repo=fpl-admin-panel&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/Nafiz001/Payoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nafiz001&repo=Payoo&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" />
-</a>
-
-</div>
-
-<br/>
-
-## 💼 FEATURED PROJECTS
-
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|------------|----------------|---------------|----------|
-| **Artify** | Art marketplace platform connecting artists with art lovers | React, Node.js, Express, MongoDB, Tailwind CSS | [Live](https://github.com/Nafiz001/artify-client-side) • [Code](https://github.com/Nafiz001/artify-server-side) |
-| **Fantasy Premier League** | Complete fantasy football management system with real-time updates | PHP, MySQL, JavaScript, Bootstrap | [View](https://github.com/Nafiz001/Fantasy-Premier-League) |
-| **Dragon News** | Modern responsive news portal with category filtering | React, Firebase, React Router, Tailwind CSS | [Demo](https://github.com/Nafiz001/Dragon-News) |
-| **FPL Admin Panel** | Comprehensive admin dashboard for fantasy league management | PHP, Blade Templates, MySQL, Charts.js | [Explore](https://github.com/Nafiz001/fpl-admin-panel) |
-| **Payoo** | Payment gateway interface with transaction management | HTML5, CSS3, JavaScript, Responsive Design | [Check](https://github.com/Nafiz001/Payoo) |
-
-<br/>
 
 ## 📝 RANDOM DEV QUOTE
 
@@ -244,7 +184,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/nafiz001">
+<a href="https://www.linkedin.com/in/nafiz-ahmed-770a3a273/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -273,13 +213,6 @@
 ### ⚡ Fun Fact
 *"I speak fluent JavaScript, but I'm still learning to speak to humans without semicolons."* 😄
 
-<br/>
-
-### 📊 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/Nafiz001/count.svg)
-
-<br/>
 
 **✨ Thank you for visiting my profile! ✨**
 
