@@ -36,7 +36,7 @@
 
 <p align="center">
   <samp>
-    🎨 My tech arsenal includes: <b>React • Redux • Tailwind CSS • Bootstrap • Node.js • Express • MongoDB • MySQL • Firebase</b>
+    🎨 My tech arsenal includes: <b>React • Tailwind CSS • Bootstrap • Node.js • Express • MongoDB • MySQL • Firebase • C • C++ • Python • JAVA</b>
   </samp>
 </p>
 
@@ -126,8 +126,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nafiz001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiz001&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=ffffff&langs_count=8" alt="Top Languages" height="180"/>
-</div>
+ 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nafiz001&theme=react&hide_border=true&background=0D1117&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak" width="49%"/>
