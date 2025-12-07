@@ -50,6 +50,12 @@
 
 <p align="center">
   <samp>
+    Portfolio: https://nafiz-ahmed-xi.vercel.app/
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
     💡 Fun Fact: I debug with console.log() and I'm proud of it! 😄
   </samp>
 </p>
