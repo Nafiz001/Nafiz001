@@ -1,0 +1,16 @@
+{
+  "name": "nafiz001-profile",
+  "private": true,
+  "type": "module",
+  "description": "Builds the images in ../assets: the night-sky hero and the project cards.",
+  "scripts": {
+    "capture": "node capture.mjs",
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "@expo-google-fonts/hanken-grotesk": "^0.4.3",
+    "@expo-google-fonts/im-fell-english": "^0.4.0",
+    "playwright-core": "^1.64.1",
+    "subset-font": "^2.9.0"
+  }
+}
