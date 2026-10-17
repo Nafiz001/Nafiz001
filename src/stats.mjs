@@ -147,7 +147,7 @@ bar.forEach((b, k) => {
   segments += `<rect x="${x.toFixed(1)}" y="${by}" width="${(w - 2).toFixed(1)}" height="9" rx="2" fill="${b.color}"/>`;
   x += w;
   const lx = sx + (k % 4) * (sw / 4);
-  const ly = by + 38 + Math.floor(k / 4) * 26;
+  const ly = by + 40 + Math.floor(k / 4) * 30;
   legend += `<circle cx="${lx + 5}" cy="${ly - 5}" r="5" fill="${b.color}"/><text class="small" x="${lx + 17}" y="${ly}">${esc(b.name)} <tspan class="dim">${pct(b.share)}</tspan></text>`;
 });
 
@@ -183,10 +183,10 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" wid
 @font-face{font-family:Hanken;src:url(${hanken}) format("woff2")}
 .big{font:500 68px HankenMedium,sans-serif;fill:${C.ink};letter-spacing:-.01em}
 .mid{font:500 28px HankenMedium,sans-serif;fill:${C.ink}}
-.label{font:18px Hanken,sans-serif;fill:${C.soft}}
-.small{font:15px Hanken,sans-serif;fill:${C.soft}}
+.label{font:21px Hanken,sans-serif;fill:${C.soft}}
+.small{font:18px Hanken,sans-serif;fill:${C.soft}}
 .dim{fill:${C.faint}}
-.tiny{font:13px Hanken,sans-serif;fill:${C.faint}}
+.tiny{font:15px Hanken,sans-serif;fill:${C.faint}}
 .field circle{fill:${C.ink}}
 .glow{fill:url(#glow);animation:breathe 4.5s ease-in-out infinite alternate}
 @keyframes breathe{from{opacity:.35}to{opacity:1}}
@@ -201,7 +201,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" wid
 <rect width="${W}" height="${H}" fill="url(#sky)"/>
 <g class="field">${field}</g>
 <text class="big" x="62" y="120">${fmt(calendar.totalContributions)}</text>
-<text class="label" x="66" y="156">contributions in the last year</text>
+<text class="label" x="66" y="158">contributions in the last year</text>
 ${stats}
 ${months}
 ${sky}

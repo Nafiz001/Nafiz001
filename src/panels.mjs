@@ -58,8 +58,8 @@ ${icon(l.icon, 26, 16, 24, C.gold)}
   // --- stack ---------------------------------------------------------------
   async function stack(rows) {
     const W = 1280;
-    const left = 300;
-    const cell = 80;
+    const left = 268;
+    const cell = 86;
     const rowH = 104;
     const H = 72 + rows.length * rowH;
     const names = rows.flatMap((r) => r.items.map((i) => i[1]));
@@ -73,7 +73,7 @@ ${icon(l.icon, 26, 16, 24, C.gold)}
       r.items.forEach(([ref, name], j) => {
         const cx = left + j * cell + cell / 2;
         body += icon(ref, cx - 15, y, 30, C.ink);
-        body += `<text class="name" x="${cx}" y="${y + 56}" text-anchor="middle">${esc(name)}</text>`;
+        body += `<text class="name" x="${cx}" y="${y + 60}" text-anchor="middle">${esc(name)}</text>`;
       });
     });
     const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-labelledby="t">
@@ -81,8 +81,8 @@ ${icon(l.icon, 26, 16, 24, C.gold)}
 <style>
 @font-face{font-family:FellItalic;src:url(${fellItalic}) format("woff2")}
 @font-face{font-family:Hanken;src:url(${hanken}) format("woff2")}
-.row{font:26px FellItalic,serif;fill:${C.gold}}
-.name{font:13px Hanken,sans-serif;fill:${C.soft}}
+.row{font:30px FellItalic,serif;fill:${C.gold}}
+.name{font:15px Hanken,sans-serif;fill:${C.soft}}
 </style>
 <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${C.top}"/><stop offset="1" stop-color="${C.low}"/></linearGradient></defs>
 <rect width="${W}" height="${H}" rx="28" fill="url(#sky)"/>
