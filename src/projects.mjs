@@ -103,3 +103,20 @@ export const moreLive = [
   ["Shabuj University Finder", "https://shabuj-university-finder.vercel.app", "shabuj-university-finder"],
   ["Employee & Family Registry", "https://employee-family-registry-system.vercel.app", "employee-family-registry-system"],
 ];
+
+// The buttons under the hero.
+export const links = [
+  { slug: "portfolio", label: "Portfolio", icon: "lucide:globe", href: "https://nafiz-ahmed-xi.vercel.app" },
+  { slug: "linkedin", label: "LinkedIn", icon: "custom:linkedin", href: "https://www.linkedin.com/in/nafiz-ahmed-770a3a273/" },
+  { slug: "email", label: "Email", icon: "lucide:mail", href: "mailto:nafizahmed000@gmail.com" },
+  { slug: "cv", label: "CV", icon: "lucide:file-user", href: "https://nafiz-ahmed-xi.vercel.app/resume.pdf" },
+];
+
+// What the projects are built with: only what the public repositories use.
+// [Simple Icons slug or lucide:<name>, label]
+export const stack = [
+  { label: "Languages", items: [["go", "Go"], ["rust", "Rust"], ["typescript", "TypeScript"], ["javascript", "JavaScript"], ["dotnet", "C# / .NET"], ["python", "Python"], ["c", "C"], ["cplusplus", "C++"], ["openjdk", "Java"], ["php", "PHP"], ["dart", "Dart"]] },
+  { label: "Front end", items: [["react", "React"], ["nextdotjs", "Next.js"], ["svelte", "Svelte"], ["vuedotjs", "Vue"], ["angular", "Angular"], ["threedotjs", "three.js"], ["tailwindcss", "Tailwind"], ["flutter", "Flutter"], ["expo", "Expo"], ["webassembly", "WebAssembly"]] },
+  { label: "Back end, data", items: [["nodedotjs", "Node.js"], ["django", "Django"], ["laravel", "Laravel"], ["spring", "Spring"], ["fastapi", "FastAPI"], ["postgresql", "PostgreSQL"], ["mongodb", "MongoDB"], ["mysql", "MySQL"], ["redis", "Redis"], ["sqlite", "SQLite"], ["firebase", "Firebase"]] },
+  { label: "Shipping it", items: [["docker", "Docker"], ["githubactions", "GitHub Actions"], ["linux", "Linux"], ["caddy", "Caddy"], ["vercel", "Vercel"], ["lucide:cloud", "Oracle Cloud"], ["git", "Git"]] },
+];

@@ -3,7 +3,10 @@
 <a href="https://nafiz-ahmed-xi.vercel.app"><img src="assets/hero.svg" width="100%" alt="Md. Nafiz Ahmed. I build databases, servers and compilers from scratch, and the 3D and multiplayer things that run on top of them."></a>
 
 <p align="center">
-  <a href="https://nafiz-ahmed-xi.vercel.app">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/nafiz-ahmed-770a3a273/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:nafizahmed000@gmail.com">nafizahmed000@gmail.com</a>
+  <a href="https://nafiz-ahmed-xi.vercel.app"><img src="assets/links/portfolio.svg" height="44" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/nafiz-ahmed-770a3a273/"><img src="assets/links/linkedin.svg" height="44" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:nafizahmed000@gmail.com"><img src="assets/links/email.svg" height="44" alt="Email"></a>&nbsp;
+  <a href="https://nafiz-ahmed-xi.vercel.app/resume.pdf"><img src="assets/links/cv.svg" height="44" alt="CV"></a>
 </p>
 
 <a href="https://vernissage-pi.vercel.app"><img src="assets/cards/vernissage.webp" width="100%" alt="Vernissage: Hang your own exhibition of 8,263 public-domain masterpieces from The Met and the Cleveland Museum of Art, then walk through it in 3D with whoever opens the link."></a>
@@ -30,6 +33,10 @@
 
 <a href="https://gedis.130-210-16-198.sslip.io"><img src="assets/cards/gedis.webp" width="100%" alt="gedis: A Redis-compatible store that speaks RESP, so the official redis-cli talks to it. A public instance takes connections now."></a>
 
+<img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/output/stats.svg" width="100%" alt="Contributions in the last year as a sky of stars, one per day, with streaks and the languages in my public repositories. Redrawn daily.">
+
+<img src="assets/stack.svg" width="100%" alt="Built with: Go, Rust, TypeScript, JavaScript, C# / .NET, Python, C, C++, Java, PHP, Dart; React, Next.js, Svelte, Vue, Angular, three.js, Tailwind, Flutter, Expo, WebAssembly; Node.js, Django, Laravel, Spring, FastAPI, PostgreSQL, MongoDB, MySQL, Redis, SQLite, Firebase; Docker, GitHub Actions, Linux, Caddy, Vercel, Oracle Cloud, Git.">
+
 ### Live, with source
 
 | Project | Built with | Try it | Code |
@@ -49,4 +56,4 @@ More live work: [ShopCircuit](https://shopcircuit.vercel.app) ([source](https://
 
 The Go, Rust and .NET projects run on two Oracle Cloud Always Free servers. GitHub Actions builds every project for amd64 and arm64 on each push, and the servers pull the new images within ten minutes: [portfolio-deploy](https://github.com/Nafiz001/portfolio-deploy). Every link above was opened in a browser before this page was built.
 
-Open to full-time roles and freelance work. The quickest way to reach me is [nafizahmed000@gmail.com](mailto:nafizahmed000@gmail.com).
+Open to full-time roles and freelance work: [nafizahmed000@gmail.com](mailto:nafizahmed000@gmail.com).

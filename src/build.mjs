@@ -15,7 +15,8 @@ import { dirname, join, resolve } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { chromium } from "playwright-core";
 import subsetFont from "subset-font";
-import { flagship, moreLive, projects } from "./projects.mjs";
+import { makePanels } from "./panels.mjs";
+import { flagship, links as contact, moreLive, projects, stack } from "./projects.mjs";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const assets = resolve(here, "../assets");
@@ -359,7 +360,7 @@ function readme() {
 <a href="${links.portfolio}"><img src="assets/hero.svg" width="100%" alt="Md. Nafiz Ahmed. I build databases, servers and compilers from scratch, and the 3D and multiplayer things that run on top of them."></a>
 
 <p align="center">
-  <a href="${links.portfolio}">Portfolio</a> &nbsp;·&nbsp; <a href="${links.linkedin}">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:${links.email}">${links.email}</a>
+  ${contact.map((l) => `<a href="${l.href}"><img src="assets/links/${l.slug}.svg" height="44" alt="${l.label}"></a>`).join("&nbsp;\n  ")}
 </p>
 
 ${img(flagship, "100%")}
@@ -367,6 +368,10 @@ ${img(flagship, "100%")}
 ${rows.join("\n\n")}
 
 ${wides.map((p) => img(p, "100%")).join("\n\n")}
+
+<img src="https://raw.githubusercontent.com/Nafiz001/Nafiz001/output/stats.svg" width="100%" alt="Contributions in the last year as a sky of stars, one per day, with streaks and the languages in my public repositories. Redrawn daily.">
+
+<img src="assets/stack.svg" width="100%" alt="Built with: ${stack.map((r) => r.items.map((i) => i[1]).join(", ")).join("; ")}.">
 
 ### Live, with source
 
@@ -378,13 +383,18 @@ More live work: ${more}.
 
 The Go, Rust and .NET projects run on two Oracle Cloud Always Free servers. GitHub Actions builds every project for amd64 and arm64 on each push, and the servers pull the new images within ten minutes: [portfolio-deploy](https://github.com/Nafiz001/portfolio-deploy). Every link above was opened in a browser before this page was built.
 
-Open to full-time roles and freelance work. The quickest way to reach me is [${links.email}](mailto:${links.email}).
+Open to full-time roles and freelance work: [${links.email}](mailto:${links.email}).
 `;
 }
 
 const only = process.argv[2];
 if (!only || only === "hero") await hero();
 if (!only || only === "cards") await cards();
+if (!only || only === "panels") {
+  const panels = makePanels(here, assets);
+  await panels.links(contact);
+  await panels.stack(stack);
+}
 if (!only || only === "readme") {
   writeFileSync(resolve(here, "../README.md"), readme());
   console.log("README.md");
