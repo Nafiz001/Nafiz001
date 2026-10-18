@@ -2,17 +2,8 @@
   "name": "nafiz001-profile",
   "private": true,
   "type": "module",
-  "description": "Builds the images in ../assets: the night-sky hero and the project cards.",
+  "description": "Builds the profile README, the architecture diagram and the Vernissage clip. Needs only Node and ffmpeg.",
   "scripts": {
-    "capture": "node capture.mjs",
     "build": "node build.mjs"
-  },
-  "devDependencies": {
-    "@expo-google-fonts/hanken-grotesk": "^0.4.3",
-    "@expo-google-fonts/im-fell-english": "^0.4.0",
-    "lucide-static": "^1.59.0",
-    "playwright-core": "^1.64.1",
-    "simple-icons": "^16.35.0",
-    "subset-font": "^2.9.0"
   }
 }
