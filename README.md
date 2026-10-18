@@ -17,17 +17,16 @@
 </p>
 
 <p>
-  <a href="https://nafiz001.github.io/ghostline-threejs/"><img src="assets/cards/ghostline-threejs.webp" width="49%" alt="Ghostline: A hover racer whose physics is deterministic enough to replay a lap from its inputs, so any ghost can be shared as a URL."></a>
-  <a href="https://nafiz001.github.io/swarmlight-canvas/"><img src="assets/cards/swarmlight-canvas.webp" width="49%" alt="Swarmlight: A survivors-like with 1,500 enemies at 60 fps on one hand-rolled canvas, seeded daily runs, no engine and no dependencies."></a>
-</p>
-
-<p>
+  <a href="https://warehouse.130-210-37-18.sslip.io"><img src="assets/cards/logarithm-warehouse.webp" width="49%" alt="Warehouse: A monolith rebuilt as microservices behind Nginx, with a Redis counter that keeps chaos tests deterministic across replicas."></a>
   <a href="https://ebru.130-210-16-198.sslip.io"><img src="assets/cards/ebru.webp" width="49%" alt="ebru: Turkish paper marbling that anyone can work in at once, with the same Rust maths on the server and in the browser, bit for bit."></a>
-  <a href="https://kirie.130-210-16-198.sslip.io"><img src="assets/cards/kirie.webp" width="49%" alt="kirie: A pop-up paper book of the sky over 36 places, lit by the weather there right now, with live readers folding paper cranes."></a>
 </p>
 
 <p>
+  <a href="https://kirie.130-210-16-198.sslip.io"><img src="assets/cards/kirie.webp" width="49%" alt="kirie: A pop-up paper book of the sky over 36 places, lit by the weather there right now, with live readers folding paper cranes."></a>
   <a href="https://asterism.130-210-16-198.sslip.io"><img src="assets/cards/asterism.webp" width="49%" alt="Asterism: Hold your phone to the sky and it names what you see: stars, planets, the ISS, and whether tonight is worth going out."></a>
+</p>
+
+<p>
   <a href="https://lumen.130-210-16-198.sslip.io/?q=goroutines+channels"><img src="assets/cards/lumen.webp" width="49%" alt="lumen: Crawler, inverted index, BM25 and snippets written from scratch with only Go's standard library, here searching the Go blog."></a>
 </p>
 
@@ -44,8 +43,7 @@
 | **Vernissage** · a museum you curate and share | Go · PostgreSQL · Next.js · React Three Fiber · WebSockets | [live](https://vernissage-pi.vercel.app) | [source](https://github.com/Nafiz001/vernissage) |
 | **領域展開** · Ryōiki Tenkai | TypeScript · Canvas 2D · three.js · Web Audio | [live](https://jjk-domain-expansion.vercel.app) | [source](https://github.com/Nafiz001/jjk-domain-expansion) |
 | **Vantage** · 6-DOF arm, digital twin | React Three Fiber · URDF · MediaPipe · Arduino firmware | [live](https://logarithm-techathon.vercel.app) | [source](https://github.com/Nafiz001/logarithm-techathon) |
-| **Ghostline** · race your own best lap | TypeScript · three.js · Web Audio · 139 KB gzipped | [live](https://nafiz001.github.io/ghostline-threejs/) | [source](https://github.com/Nafiz001/ghostline-threejs) |
-| **Swarmlight** · a ten minute vigil | TypeScript · Canvas 2D · spatial hashing | [live](https://nafiz001.github.io/swarmlight-canvas/) | [source](https://github.com/Nafiz001/swarmlight-canvas) |
+| **Warehouse** · BUET prize winner | Node.js · PostgreSQL · Redis · Nginx · Prometheus · Grafana | [live](https://warehouse.130-210-37-18.sslip.io) | [source](https://github.com/Nafiz001/logarithm-warehouse) |
 | **ebru** · a shared marbling tray | Rust · axum · WebAssembly · Vue | [live](https://ebru.130-210-16-198.sslip.io) | [source](https://github.com/Nafiz001/ebru) |
 | **kirie** · 切り絵, paper cutting | ASP.NET Core · SignalR · SvelteKit · CSS 3D | [live](https://kirie.130-210-16-198.sslip.io) | [source](https://github.com/Nafiz001/kirie) |
 | **Asterism** · a stargazing app | Expo · React Native Skia · Reanimated · astronomy from Meeus | [live](https://asterism.130-210-16-198.sslip.io) | [source](https://github.com/Nafiz001/asterism) |
@@ -54,6 +52,6 @@
 
 More live work: [ShopCircuit](https://shopcircuit.vercel.app) ([source](https://github.com/Nafiz001/E-Commerce-)) · [DevEvent](https://dev-events-nextjs-six.vercel.app) ([source](https://github.com/Nafiz001/dev-events-nextjs)) · [Shabuj University Finder](https://shabuj-university-finder.vercel.app) ([source](https://github.com/Nafiz001/shabuj-university-finder)) · [Employee & Family Registry](https://employee-family-registry-system.vercel.app) ([source](https://github.com/Nafiz001/employee-family-registry-system)).
 
-The Go, Rust and .NET projects run on two Oracle Cloud Always Free servers. GitHub Actions builds every project for amd64 and arm64 on each push, and the servers pull the new images within ten minutes: [portfolio-deploy](https://github.com/Nafiz001/portfolio-deploy). Every link above was opened in a browser before this page was built.
+The Go, Rust, .NET and Node projects run on two Oracle Cloud Always Free servers. GitHub Actions builds every project for amd64 and arm64 on each push, and the servers pull the new images within ten minutes: [portfolio-deploy](https://github.com/Nafiz001/portfolio-deploy). Every link above was opened in a browser before this page was built.
 
 Open to full-time roles and freelance work: [nafizahmed000@gmail.com](mailto:nafizahmed000@gmail.com).

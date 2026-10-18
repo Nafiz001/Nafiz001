@@ -7,7 +7,7 @@
 import { chromium } from "playwright-core";
 import { flagship, projects } from "./projects.mjs";
 
-const FROM_REPO = new Set(["jjk-domain-expansion", "ghostline-threejs", "swarmlight-canvas", "gedis"]);
+const FROM_REPO = new Set(["jjk-domain-expansion", "gedis"]);
 
 // Anything a page needs before it shows itself at its best.
 const prepare = {

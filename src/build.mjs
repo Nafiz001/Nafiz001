@@ -50,15 +50,14 @@ const C = {
 const W = 1280;
 const H = 560;
 
-// Ten stars, one per project; the flagship is the brightest. Positions are
+// Nine stars, one per project; the flagship is the brightest. Positions are
 // laid out by hand so the lines read as one figure. `side` says where the
 // label sits.
 const stars = [
   { name: "Vernissage", x: 1012, y: 132, r: 5.2, side: "top", flagship: true },
   { name: "Ryōiki Tenkai", x: 1138, y: 212, r: 3.2, side: "right" },
   { name: "Vantage", x: 1188, y: 330, r: 3.0, side: "right" },
-  { name: "Ghostline", x: 1090, y: 418, r: 3.4, side: "bottom" },
-  { name: "Swarmlight", x: 952, y: 380, r: 2.8, side: "bottom" },
+  { name: "Logarithm Warehouse", x: 1068, y: 410, r: 3.4, side: "bottom" },
   { name: "ebru", x: 884, y: 252, r: 3.6, side: "left" },
   { name: "kirie", x: 790, y: 168, r: 3.0, side: "top" },
   { name: "Asterism", x: 764, y: 298, r: 3.4, side: "left" },
@@ -67,7 +66,7 @@ const stars = [
 ];
 // The figure: a loop through the visual work, and a tail down through the
 // systems projects.
-const edges = [[0, 1], [1, 2], [2, 3], [3, 4], [4, 5], [5, 0], [5, 6], [6, 7], [7, 8], [8, 9]];
+const edges = [[0, 1], [1, 2], [2, 3], [3, 4], [4, 0], [4, 5], [5, 6], [6, 7], [7, 8]];
 
 const name = "Md. Nafiz Ahmed";
 const about = [
@@ -141,7 +140,7 @@ async function hero() {
 
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-labelledby="t d">
 <title id="t">${esc(name)}</title>
-<desc id="d">${esc(about.join(" "))} A night sky whose constellation names ten live projects: ${esc(labels.join(", "))}.</desc>
+<desc id="d">${esc(about.join(" "))} A night sky whose constellation names ${labels.length} live projects: ${esc(labels.join(", "))}.</desc>
 <style>
 @font-face{font-family:Fell;src:url(${fell}) format("woff2")}
 @font-face{font-family:FellItalic;src:url(${fellItalic}) format("woff2")}
@@ -381,7 +380,7 @@ ${table}
 
 More live work: ${more}.
 
-The Go, Rust and .NET projects run on two Oracle Cloud Always Free servers. GitHub Actions builds every project for amd64 and arm64 on each push, and the servers pull the new images within ten minutes: [portfolio-deploy](https://github.com/Nafiz001/portfolio-deploy). Every link above was opened in a browser before this page was built.
+The Go, Rust, .NET and Node projects run on two Oracle Cloud Always Free servers. GitHub Actions builds every project for amd64 and arm64 on each push, and the servers pull the new images within ten minutes: [portfolio-deploy](https://github.com/Nafiz001/portfolio-deploy). Every link above was opened in a browser before this page was built.
 
 Open to full-time roles and freelance work: [${links.email}](mailto:${links.email}).
 `;
