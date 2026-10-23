@@ -8,7 +8,7 @@ I build backend systems from scratch (a SQL database, a Redis, a search engine, 
 
 **2nd runner-up**, BUET CSE Fest 2026 · **Champion**, KUET First Byte Datathon 2025 · B.Sc. in Computer Science and Engineering, KUET (2023 to now)
 
-[CV](https://www.nafizahmed.tech/resume.pdf) · [Portfolio](https://www.nafizahmed.tech) · [LinkedIn](https://www.linkedin.com/in/nafiz-ahmed-770a3a273/) · [Email](mailto:nafizahmed000@gmail.com)
+[CV](https://www.nafizahmed.tech/resume.pdf) · [Portfolio](https://www.nafizahmed.tech) · [LinkedIn](https://www.linkedin.com/in/md-nafiz-ahmed-nafiz/) · [Email](mailto:nafizahmed000@gmail.com)
 
 ## Everything here runs live
 

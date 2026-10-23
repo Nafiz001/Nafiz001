@@ -17,7 +17,7 @@ export const person = {
   links: [
     ["CV", "https://www.nafizahmed.tech/resume.pdf"],
     ["Portfolio", "https://www.nafizahmed.tech"],
-    ["LinkedIn", "https://www.linkedin.com/in/nafiz-ahmed-770a3a273/"],
+    ["LinkedIn", "https://www.linkedin.com/in/md-nafiz-ahmed-nafiz/"],
   ],
 };
 
