@@ -15,8 +15,8 @@ export const person = {
   ],
   email: "nafizahmed000@gmail.com",
   links: [
-    ["CV", "https://nafiz-ahmed-xi.vercel.app/resume.pdf"],
-    ["Portfolio", "https://nafiz-ahmed-xi.vercel.app"],
+    ["CV", "https://www.nafizahmed.tech/resume.pdf"],
+    ["Portfolio", "https://www.nafizahmed.tech"],
     ["LinkedIn", "https://www.linkedin.com/in/nafiz-ahmed-770a3a273/"],
   ],
 };
