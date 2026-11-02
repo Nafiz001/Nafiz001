@@ -41,6 +41,7 @@ Hang your own exhibition of 8,263 public-domain works from The Met and the Cleve
 
 | Project | What it is | Links |
 |---|---|---|
+| **katar** | Eid-rush train ticketing: a fair virtual waiting room and seats sold by the segment, where a hold is one atomic UPDATE on a bitmask. A 300-person rush on the live server failed no request of 39,849 and sold nothing twice.<br><sub>Java 21, Spring Boot, PostgreSQL</sub> | [live](https://katar.130-210-37-18.sslip.io) · [code](https://github.com/Nafiz001/katar) |
 | **Logarithm Warehouse** | BUET CSE Fest 2026, 2nd runner-up. A fragile monolith rebuilt as Order and Inventory services with a database each, behind Nginx. A shared Redis counter keeps the chaos tests deterministic across three replicas; Prometheus and Grafana watch it.<br><sub>Node.js, PostgreSQL, Redis, Nginx, Prometheus, Grafana</sub> | [live](https://warehouse.130-210-37-18.sslip.io) · [code](https://github.com/Nafiz001/logarithm-warehouse) |
 | **kori** | A double-entry ledger and payments API: balanced transactions, idempotent retries, and a check that re-derives every balance from the journal. Try to break it in the live sandbox.<br><sub>TypeScript, PostgreSQL, Redis</sub> | [live](https://kori.130-210-37-18.sslip.io) · [code](https://github.com/Nafiz001/kori) |
 

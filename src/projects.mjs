@@ -61,6 +61,13 @@ export const groups = [
     title: "Distributed systems and payments",
     rows: [
       {
+        title: "katar",
+        line: "Eid-rush train ticketing: a fair virtual waiting room and seats sold by the segment, where a hold is one atomic UPDATE on a bitmask. A 300-person rush on the live server failed no request of 39,849 and sold nothing twice.",
+        stack: "Java 21, Spring Boot, PostgreSQL",
+        live: "https://katar.130-210-37-18.sslip.io",
+        code: "https://github.com/Nafiz001/katar",
+      },
+      {
         title: "Logarithm Warehouse",
         line: "BUET CSE Fest 2026, 2nd runner-up. A fragile monolith rebuilt as Order and Inventory services with a database each, behind Nginx. A shared Redis counter keeps the chaos tests deterministic across three replicas; Prometheus and Grafana watch it.",
         stack: "Node.js, PostgreSQL, Redis, Nginx, Prometheus, Grafana",
